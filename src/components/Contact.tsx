@@ -39,8 +39,8 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <p className="text-slate-400">Email</p>
-                  <a href="mailto:emmanuel.manyara@example.com" className="text-cyan-400 hover:text-cyan-300 transition-colors">
-                    emmanuel.manyara@example.com
+                  <a href="mailto:manyaraemmanuel5@gmail.com" className="text-cyan-400 hover:text-cyan-300 transition-colors">
+                    manyaraemmanuel5@gmail.com
                   </a>
                 </div>
               </div>
@@ -82,7 +82,7 @@ const Contact: React.FC = () => {
               <a 
                 href="https://linkedin.com" 
                 target="_blank" 
-                rel="noopener noreferrer"
+                rel="www.linkedin.com/in/emmanuel-manyara-645a74295"
                 className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center
                          text-slate-400 hover:text-cyan-400 hover:bg-slate-700 transition-all duration-300"
               >
