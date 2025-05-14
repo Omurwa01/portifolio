@@ -102,7 +102,7 @@ const Hero: React.FC = () => {
             <div className="flex gap-4">
               <a 
                 href="https://github.com" 
-                target="_blank" 
+                target="https://github.com/Omurwa01" 
                 rel="noopener noreferrer"
                 className="text-slate-400 hover:text-cyan-400 text-2xl transition-all duration-300 hover:scale-110"
               >
