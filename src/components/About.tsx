@@ -38,7 +38,7 @@ const About: React.FC = () => {
                 </div>
                 <h4 className="text-xl font-semibold">University Of Eastern Africa, Baraton</h4>
               </div>
-              <p className="text-slate-400 ml-9">BSc in Computer Science, 2018-2022</p>
+              <p className="text-slate-400 ml-9">BSc in Software Engineering, 2022-2026</p>
             </div>
             
             <div className="mb-6">
@@ -48,7 +48,7 @@ const About: React.FC = () => {
                 </div>
                 <h4 className="text-xl font-semibold">Software Development Experience</h4>
               </div>
-              <p className="text-slate-400 ml-9">3+ years of professional development experience</p>
+              <p className="text-slate-400 ml-9">3+ years of  development experience</p>
             </div>
             
             <div>

@@ -110,7 +110,7 @@ const Hero: React.FC = () => {
               </a>
               <a 
                 href="https://linkedin.com" 
-                target="_blank" 
+                target="www.linkedin.com/in/emmanuel-manyara-645a74295" 
                 rel="noopener noreferrer"
                 className="text-slate-400 hover:text-cyan-400 text-2xl transition-all duration-300 hover:scale-110"
               >
